@@ -1,0 +1,6 @@
+{
+    "sketch": "BlinkWithoutDelay.ino",
+    "port": "/dev/tty.usbserial-01D1D16F",
+    "board": "arduino:avr:uno",
+    "output": "../build"
+}
