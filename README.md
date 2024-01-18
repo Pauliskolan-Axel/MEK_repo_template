@@ -12,5 +12,4 @@ Skapa Issues i ToDo.txt enligt nedan:
 8. [ ] 2-dimensionell array, flera tillstånd: 7-segmentsdisplay för ett tidtagarur.	
 9. [ ] Avancerad styrning: Trådstyrd bil med älgbroms.
 
-För Gesällproven gör du egna mappar och filer: 
-GP1/GP1.ino
+Sedan finns 5 stycken provlabbar och kod för PLC-robotarna, se beskrivning i Classroom 
