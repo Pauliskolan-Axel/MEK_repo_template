@@ -1,9 +1,9 @@
 /* Pseudokod
-  Describe funciton in one or two sentences.
+  Describe function in one or two sentences.
  INPUT:
  * 
  * 
- LOGIK:
+ LOGIC:
  * 
  * 
  * 
